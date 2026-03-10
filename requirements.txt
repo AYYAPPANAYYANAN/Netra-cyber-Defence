@@ -1,0 +1,8 @@
+streamlit
+supabase
+requests
+beautifulsoup4
+transformers
+torch
+pandas
+Pillow
